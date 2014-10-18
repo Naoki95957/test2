@@ -20,5 +20,5 @@ git commit 	makes a "snapshot" of your added file
 In terms of combinations:
 git remote add origin (url)	well idk remote, but this sets the url to repo
 git remote set-head		sets the branch name
-git push -u origin master	sends the added commits to url
+git push -u origin master	sends the added commit to url
 
