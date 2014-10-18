@@ -9,7 +9,7 @@ git status	shows what you have
 git log		shows what you've done
 git push	export
 git pull	import
-git clone	import, but sets user as master to repo. (followed by url of repo)
+git clone	import, but sets user as master to repo and adds all files from repo. (followed by url of repo)
 touch		makes blank a file, whatever is added after is the file name
 ls		directories
 cd		change directory
