@@ -1,4 +1,4 @@
-My second test, entirely on GitBash
+My second test, entirely on GitBash (NVM that xD...)
 =====
 So I made this file by typing "mkdir ~/(file name)".
 Then I opened the file in vim and am editing it as of now.
